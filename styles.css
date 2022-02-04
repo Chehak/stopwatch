@@ -1,0 +1,18 @@
+.wrapper{
+    width: 800px;
+    text-align: center;
+    background-color: violet;
+    margin:30px auto;
+    padding-bottom: 10px;
+}
+#seconds,#minutes{
+    font-size: 3em;
+}
+button{
+    background-color: aqua;
+    border-radius: 1em;
+    border: 1px solid white;
+}
+button:hover{
+    background-color: azure
+}
